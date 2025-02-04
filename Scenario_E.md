@@ -37,8 +37,8 @@ Additionally, I recommend clearing your browser cache and using a different brow
 If the issue persists after trying these steps, please don’t hesitate to reach out again for further assistance. 
 
 
-All the best, 
-Trisha
-CodePath Support
-www.codepath.org
-Tech Excellence For All
+All the best,   
+Trisha  
+CodePath Support   
+
+
