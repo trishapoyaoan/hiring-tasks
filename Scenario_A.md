@@ -16,8 +16,7 @@ Once we receive the supporting information, we can accurately update your attend
 If you have any questions or need assistance, feel free to reach out.
 
 
-All the best, 
-Trisha
+All the best,   
+Trisha   
 CodePath Support
-www.codepath.org
-Tech Excellence For All
+

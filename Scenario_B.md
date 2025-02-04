@@ -1,5 +1,5 @@
 ---
-title: 'Hi Mary,'
+title: Scenario_B
 
 ---
 
@@ -15,10 +15,9 @@ However, please be aware that we are unable to provide multiple exemptions and o
 We hope you understand our Attendance Policy. If you have any further questions, feel free to contact us.
 
 
-All the best, 
-Trisha
+All the best,   
+Trisha   
 CodePath Support
-www.codepath.org
-Tech Excellence For All
+
 
 

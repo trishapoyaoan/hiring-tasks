@@ -27,8 +27,6 @@ If you have any further questions or need clarification, please don’t hesitate
 
 
 
-All the best, 
-Trisha
-CodePath Support
-www.codepath.org
-Tech Excellence For All
+All the best,   
+Trisha   
+CodePath Support  
